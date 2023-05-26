@@ -32,6 +32,21 @@ pip install comtypes
 
 
 
+#### OutPut:
+>
+> This is how the OutPut Looks like
+> 
+> [![OpenCVPython](ss/Screenshot%20(4).png)](https://apparky.vercel.app/)
+> 
+> 
+> [![OpenCVPython](ss/Screenshot%20(5).png)](https://apparky.vercel.app/)
+> 
+> 
+> [![OpenCVPython](ss/Screenshot%20(6).png)](https://apparky.vercel.app/)
+> 
+> 
+
+
 
 
 
@@ -42,7 +57,7 @@ pip install comtypes
 > 
 > To get more interesting projects follow our Bitbucket page at [Here](https://bitbucket.org/apparky-web/workspace/overview)
 > 
-> To know more about [__APPARKY__](https://apparky.vercel.app/) Click [Here](https://apparky-soumenmtec-gmailcom.vercel.app/)
+> To know more about [__APPARKY__](https://apparky.vercel.app/) Click [Here](https://apparky.vercel.app/)
 
 
 
